@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8/python-38:1-94
+FROM python:3.8
 
 WORKDIR /jup
 
